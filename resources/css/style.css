@@ -61,4 +61,35 @@ nav a {
   width: 1000px;
 }
 
-.
+.tea-month-header {
+  display: flex;
+  justify-content: center;
+  width: 1000px;
+  align-items: center;
+  flex-direction: column;
+}
+
+.month-content {
+  display: flex;
+  justify-content: space-around;
+  width: 1000px;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.month-boxes {
+  display: flex;
+  justify-content: space-around;
+  width: 1000px;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.month-photo img {
+  height: 200px;
+  width: 300px;
+}
+
+p {
+  text-align: center;
+}
